@@ -6,7 +6,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 public class CommandBlockScanner implements ModInitializer {
-	public static final String MOD_ID = "commandblockscanner";
+	public static final String MOD_ID = "commandblockscanner"; //test
     public static final Logger LOGGER = LoggerFactory.getLogger(MOD_ID);
 
 	@Override
